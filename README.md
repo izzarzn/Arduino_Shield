@@ -1,11 +1,11 @@
-# Arduino_Shield
+# Arduino Shield
 
 ### 1.Program for LDR 
   [Click Here](https://github.com/izzarzn/Arduino_Shield/blob/6e88429b3a1a5d7aea2a73c6adfa4994a9f80ba6/LDR_9/LDR_9.ino)
   
   -------
   
-### 2.Program for Hall Efeect Sensor
+### 2.Program for Hall Effect Sensor
   [Click Here](https://github.com/izzarzn/Arduino_Shield/blob/6e88429b3a1a5d7aea2a73c6adfa4994a9f80ba6/hall_A3/hall_A3.ino)
   
   --------
@@ -14,7 +14,7 @@
   
   --------
   
-### 4.Program for Push Button
+### 4. Program for Push Button
   [Click Here](https://github.com/izzarzn/Arduino_Shield/blob/6e88429b3a1a5d7aea2a73c6adfa4994a9f80ba6/Push__2/Push__2.ino)
   
   --------
