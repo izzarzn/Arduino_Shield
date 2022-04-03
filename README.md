@@ -39,12 +39,17 @@
 
 -------
 
-|Component|Pin Used|
-|:---:|:---:|
-|LDR|9|
-|Hall Effect Sensor|A3|
-|LED|9|
-|Push Button|2|
-|Buzzer|3|
-|Potentiometer|A2|
-|Thermister|A4|
+| **Components** | **Pin Used** |
+|:----:|:----:|
+|RELAY|2|
+|BUZZER|3|
+|SERVO|5|
+|RGB BLUE|9|
+|RGB GREEN|10|
+|RGB RED|11|
+|PUSH BUTTON|12|
+|POTENTIOMETER|A2|
+|HALL EFFECT|A3|
+|THERMISTER|A4|
+|LDR|A5|
+
